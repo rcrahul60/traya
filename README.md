@@ -20,4 +20,7 @@ Make sure you have Node.js and npm installed on your machine.
    npm i
 
    ```
-3. ```npm start```
+3.
+   ```
+  npm start
+   ```

@@ -4,8 +4,6 @@
 
 Follow these steps to run the project locally:
 
-### Prerequisites
-
 Make sure you have Node.js and npm installed on your machine.
 
 ### Installation
@@ -20,7 +18,7 @@ Make sure you have Node.js and npm installed on your machine.
    npm i
 
    ```
-3.
+3. Start server
    ```
   npm start
    ```
